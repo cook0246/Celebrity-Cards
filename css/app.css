@@ -1,0 +1,62 @@
+@charset 'utf-8';
+/*
+.col-lg-4{
+  background: #ccc;
+}
+.col-lg-4 h2{
+    background: #ddd;
+}
+
+.col-lg-4 img{
+    min-height: 300px;
+    margin-bottom: 1rem;
+}
+*/
+
+.card{
+    background: #fff;
+    border-radius: 2rem;
+    box-shadow: 0.1rem 0.1rem 1rem #ccc;
+    height: 48rem;
+    margin: 1rem;
+    padding: 0;
+    display: block;
+}
+
+.card-deck{
+background: #eee;
+padding: 2rem;
+}
+
+.card-img{
+    min-width: 100%;
+    border-radius: 2rem 2rem 0 0;
+}
+
+/*
+.card-content{
+    margin-bottom: 0;
+    border-radius: 0 0 2rem 2rem;
+    display: block;
+    height: 20rem;
+
+}
+*/
+.card-block{
+    margin-top: 0;
+    padding: 1.5rem;
+    width: 100%;
+    text-align: center;
+    
+}
+.card .btn{
+    width: 100%;
+    border-radius: 0 0 2rem 2rem;
+    margin-bottom: 0;
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+    background: #00C4FF;
+    color: #fff;
+}
+

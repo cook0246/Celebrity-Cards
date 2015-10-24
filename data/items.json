@@ -1,0 +1,22 @@
+{"items":[
+{"id":1,    "full_name":"Angelina Jolie",  "coolness":5,    "quote":"Jolie quote here",  "salary":1000000,  "image":"angelina_jolie.jpeg"},
+{"id":2,    "full_name":"Arnold Schwarzenegger",  "coolness":10,    "quote":"I'll be back",  "salary":1230000,  "image":"arnold_schwarzenegger.jpeg"},
+{"id":3,    "full_name":"Ashley Judd",  "coolness":9,    "quote":"Ashley quote here",  "salary":4320000,  "image":"ashley_judd.jpeg"},
+{"id":4,    "full_name":"Cameron Diaz",  "coolness":7,    "quote":"Diaz quote here",  "salary":2340000,  "image":"cameron_diaz.jpeg"},
+{"id":5,    "full_name":"Harrison Ford",  "coolness":10,    "quote":"Why did it have to be snakes?",  "salary":99999999,  "image":"harrison_ford.jpeg"},
+{"id":6,    "full_name":"Liam Neeson",  "coolness":10,    "quote":"I am Optimus Prime!",  "salary":9393939393,  "image":"liam_neeson.jpeg"},
+{"id":7,    "full_name":"Ellen Degeneres",  "coolness":10,    "quote":"P sherman 42 wallaby way sydney!",  "salary":979797977,  "image":"ellen_degeneres.jpeg"},
+{"id":8,    "full_name":"Elton John",  "coolness":8,    "quote":"Elton quote here",  "salary":7575757575,  "image":"elton_john.jpeg"},
+{"id":9,    "full_name":"Emma Watson",  "coolness":10,    "quote":"Petrificus Totalus!",  "salary":989898989,  "image":"emma_watson.jpeg"},
+{"id":10,   "full_name":"Lady Gaga",  "coolness":7,    "quote":"Hello my little monsters",  "salary":545454545,  "image":"lady_gaga.jpeg"},
+{"id":11,   "full_name":"Ryan Reynolds",  "coolness":10,    "quote":"I'm Deadpool",  "salary":32323232,  "image":"ryan_reynolds.jpeg"},
+{"id":12,   "full_name":"Scarlett Johansson",  "coolness":9,    "quote":"I am Black Widow",  "salary":12121212, "image":"scarlett_johansson.jpeg"},
+{"id":13,   "full_name":"Tom Hanks",  "coolness":8,    "quote":"Life is like a box of chocolates",  "salary":12345678,  "image":"tom_hanks.jpeg"},
+{"id":14,   "full_name":"Vin Diesel",  "coolness":7,    "quote":"I'm the coolest guy in Fast and Furious",  "salary":6543210,  "image":"vin_diesel.jpeg"},
+{"id":15,   "full_name":"Jim Carrey",  "coolness":10,    "quote":"Alllllllrighty then!",  "salary":99999999999,  "image":"jim_carrey.jpeg"}
+
+]
+}
+
+
+
